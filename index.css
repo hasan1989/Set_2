@@ -11,6 +11,7 @@ img {vertical-align: middle;}
   border: 1px solid rgb(233, 224, 224);
   height: 520px;
   padding-top: 5px;
+  margin-top: 3px;
 }
 
 /* Next & previous buttons */
